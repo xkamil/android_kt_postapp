@@ -1,5 +1,10 @@
 <resources>
-    <string name="app_name">MyApp3</string>
+    <string name="app_name">Post editor</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
+    <string name="get_posts">Refresh</string>
+    <string name="add_post">Add</string>
+    <string name="title">Title</string>
+    <string name="text">Text</string>
+    <string name="delete_last">Delete last</string>
 </resources>
